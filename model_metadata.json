@@ -1,0 +1,10 @@
+{
+  "model_name": "Linear SVM",
+  "accuracy": 0.7916666666666666,
+  "weighted_f1": 0.7523991604301826,
+  "classes": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ]
+}
