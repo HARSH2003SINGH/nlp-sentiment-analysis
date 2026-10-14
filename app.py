@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 BASE_DIR = Path(__file__).resolve().parent
-MODEL_DIR = BASE_DIR / "model"
+MODEL_DIR = BASE_DIR
 
 
 @st.cache_resource
